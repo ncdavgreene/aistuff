@@ -2,5 +2,4 @@ Various scripts for streamlit, MemGPT, LMStudio, PHP, and whatever else I'm usin
 
 
 chatBot-Streamlit.py:
-
 Connects to a local MemGPT instances and presents a web based chat box, agents can be selected.
